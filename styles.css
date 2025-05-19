@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Georgia', serif;
-  background: #8B0000;
+  background: #c94f65;
   color: #52333d;
   line-height: 1.6;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  background-color: #c94f65;
+  background-color: #8B0000;
   color: #fff;
   padding: 3rem 1rem;
   text-align: center;
